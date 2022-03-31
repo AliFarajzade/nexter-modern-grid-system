@@ -14,3 +14,14 @@
 <br />
 
 [Live Website](https://nexter-modern-grid.netlify.app)
+
+<br />
+<br />
+
+## To make a development server, run:
+
+    yarn start
+
+## To make a build directory, run:
+
+    yarn build
