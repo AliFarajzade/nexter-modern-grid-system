@@ -13,7 +13,7 @@
 <br />
 <br />
 
-[Live Website](https://nexter-modern-grid.netlify.app)
+[🔗 Live Website 🔗](https://nexter-modern-grid.netlify.app)
 
 <br />
 <br />
